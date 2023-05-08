@@ -1,0 +1,30 @@
+Spring-Tool-Suite-3
+
+프레임워크 : 뭔가를 만들기 위한 기본적인 틀
+
+스프링 프레임워크
+EJB(엔터프라이즈 자바 빈즈)라는 프레임워크가 있었는데 유료, 어려웠다.
+-> 유지보수에 지장
+
+스프링 -> 오픈소스(무료), EJB의 90% 이상의 기능을 구현할 수 있다.
+
+전자정부프레임워크 -> 스프링
+
+STS -> 스프링 개발을 위한 이클립스
+스프링 -> 지원이 끝남.. 3.9
+이클립스에서 플러그인을 다운받으려면 2021-03버전까지 가능 (eclipse marketplace)
+
+자바 -> Spring, Spring boot
+파이썬 -> Flask, Django
+C -> .Net
+
+형상관리(버전관리)
+git, svn, svc
+
+빌드툴
+ant, maven, gradle
+
+maven - pom.xml 기준으로 움직임
+
+lombok 라이브러리 -> getter, setter,  생성자...
+@data
